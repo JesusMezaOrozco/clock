@@ -1,6 +1,5 @@
 import { useEffect, useState, useRef } from 'react'
 import { AiOutlineArrowUp, AiOutlineArrowDown } from 'react-icons/ai'
-import { HiPlayPause } from 'react-icons/hi2'
 import { BiReset } from 'react-icons/bi'
 import Countdown from 'react-countdown'
 
